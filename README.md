@@ -1,6 +1,6 @@
-<div align="left"><img src="img/logo.svg" width="50"/></div>
-<div align="center"><img src="img/captura.svg" width="100"/></div>
-<div align="center"><img src="img/captura2.svg" width="100"/></div>
+<div align="left"><img src="img/logo.svg" width="10"/></div>
+<div align="center"><img src="img/captura.svg" width="200"/></div>
+<div align="center"><img src="img/captura2.svg" width="200"/></div>
 
 
 # Encriptador de texto
