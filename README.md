@@ -1,5 +1,5 @@
 <div align="left"><img src="img/logo.svg" width="50"/></div>
-<div align="center"><img src="img/captura.svg" width="100"/></div>
+
 
 # Encriptador de texto
 
